@@ -1,4 +1,4 @@
-markdown# Ekran Görüntüsü Programı
+Ekran Görüntüsü Programı
 
 Basit ve şık bir ekran görüntüsü alma uygulaması. Global klavye kısayolları ve modern şeffaf arayüz ile hızlı ekran görüntüsü almanızı sağlar.
 
