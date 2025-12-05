@@ -1,2 +1,2 @@
 # Screenshot_Folder
-Screenshot tool with global hotkeys (Print Screen / Ctrl+Shift+S) and transparent modern UI.
+(Ekran Görüntüsü / Ctrl+Shift+S) ve şeffaf modern kullanıcı arayüzüne sahip ekran görüntüsü aracı.
